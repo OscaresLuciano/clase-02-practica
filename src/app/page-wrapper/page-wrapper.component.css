@@ -1,6 +1,5 @@
 main {
-    background-color: #0ec0c1;
     height: calc(100vh - var(--toolbar-height));
-    padding: 20px;
+    padding: 2% 5%;
     margin-left: var(--sidebar-width);
 }
