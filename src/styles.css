@@ -9,3 +9,7 @@
     --toolbar-height: 64px;
     --sidebar-width: 230px
 }
+
+h2 {
+    font-size: 1.25rem;
+}
